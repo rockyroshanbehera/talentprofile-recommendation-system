@@ -1,6 +1,3 @@
-Here's a **professional GitHub README** that is suitable for recruiters and placement interviews.
-
----
 
 # 🎯 TalentMatch AI – NLP-Based Talent Recommendation System
 
