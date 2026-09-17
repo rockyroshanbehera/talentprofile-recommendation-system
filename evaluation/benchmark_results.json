@@ -1,0 +1,78 @@
+{
+  "total_queries_benchmarked": 5,
+  "average_query_latency_ms": 396.98,
+  "p95_query_latency_ms": 457.83,
+  "model_load_time_sec": 9.21,
+  "knowledge_base_size": 123849,
+  "detailed_results": [
+    {
+      "query_id": "q1_data_analyst",
+      "category": "Data & Analytics",
+      "query": "Need a Python data analyst with SQL and Power BI experience",
+      "latency_ms": 473.67,
+      "top_1_similarity": 0.6192,
+      "mean_top5_similarity": 0.5693,
+      "mean_top10_similarity": 0.552,
+      "top5_keyword_coverage": 1.0,
+      "top_match_title": "Data Analyst - Power BI & SQL",
+      "top_match_company": "ZealTech",
+      "top_match_skills": []
+    },
+    {
+      "query_id": "q2_ml_engineer",
+      "category": "AI & Machine Learning",
+      "query": "Looking for a machine learning engineer with Python, TensorFlow and NLP skills",
+      "latency_ms": 394.47,
+      "top_1_similarity": 0.6804,
+      "mean_top5_similarity": 0.6509,
+      "mean_top10_similarity": 0.618,
+      "top5_keyword_coverage": 1.0,
+      "top_match_title": "Senior Machine Learning Engineer",
+      "top_match_company": "Commit: AI Career Agents for Developers",
+      "top_match_skills": [
+        "Engineering"
+      ]
+    },
+    {
+      "query_id": "q3_marketing",
+      "category": "Marketing",
+      "query": "Need a marketing professional experienced in digital marketing and SEO",
+      "latency_ms": 376.86,
+      "top_1_similarity": 0.7735,
+      "mean_top5_similarity": 0.6425,
+      "mean_top10_similarity": 0.6087,
+      "top5_keyword_coverage": 1.0,
+      "top_match_title": "Digital Marketing Intern",
+      "top_match_company": "UDMIDEAS",
+      "top_match_skills": [
+        "Marketing"
+      ]
+    },
+    {
+      "query_id": "q4_devops",
+      "category": "Cloud & Infrastructure",
+      "query": "Senior cloud DevOps architect with Kubernetes, Docker and AWS",
+      "latency_ms": 384.72,
+      "top_1_similarity": 0.4714,
+      "mean_top5_similarity": 0.4524,
+      "mean_top10_similarity": 0.4332,
+      "top5_keyword_coverage": 1.0,
+      "top_match_title": "DevOps Architect",
+      "top_match_company": "Ascentt",
+      "top_match_skills": []
+    },
+    {
+      "query_id": "q5_uiux",
+      "category": "Design",
+      "query": "UI UX designer with Figma wireframing and user research",
+      "latency_ms": 355.19,
+      "top_1_similarity": 0.6528,
+      "mean_top5_similarity": 0.601,
+      "mean_top10_similarity": 0.5684,
+      "top5_keyword_coverage": 1.0,
+      "top_match_title": "UI/UX Designer",
+      "top_match_company": "Sparkle Dryclean",
+      "top_match_skills": []
+    }
+  ]
+}

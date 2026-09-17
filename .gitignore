@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+*.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Streamlit config/cache
+.streamlit/
+
+# Temporary / partial downloads
+*.tmp
+
+# Large Model Artifacts (>100MB - Hosted on GitHub Releases)
+models/tfidf_matrix.pkl
+models/talent_profiles.pkl
+
+# Raw datasets (if added locally)
+data/*
+!data/.gitkeep
