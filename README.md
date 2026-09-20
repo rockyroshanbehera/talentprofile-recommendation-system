@@ -7,6 +7,14 @@
 
 TalentProfile AI is a recruiter-focused AI talent discovery engine that transforms natural-language job specifications, recruiter queries, and skill requirements into ranked, explainable candidate and talent profiles across 123,800+ real-world profiles.
 
+
+## Demo
+
+<p align="center">
+  <img src="assets/talentmatch-demo.png" alt="TalentMatch AI Demo" width="900">
+</p>
+
+
 ---
 
 ## ?? Problem
